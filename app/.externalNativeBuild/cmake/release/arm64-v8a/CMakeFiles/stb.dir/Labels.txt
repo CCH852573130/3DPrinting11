@@ -1,0 +1,13 @@
+# Target labels
+ stb
+# Source files and their labels
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/stb
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/stb.rule
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/stb-complete.rule
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/stb-prefix/src/stb-stamp/stb-install.rule
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/stb-prefix/src/stb-stamp/stb-mkdir.rule
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/stb-prefix/src/stb-stamp/stb-download.rule
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/stb-prefix/src/stb-stamp/stb-patch.rule
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/stb-prefix/src/stb-stamp/stb-configure.rule
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/stb-prefix/src/stb-stamp/stb-build.rule
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/stb-prefix/src/stb-stamp/stb-skip-update.rule

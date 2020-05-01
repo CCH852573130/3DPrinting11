@@ -1,0 +1,6 @@
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/stb.dir
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/clipper.dir
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/_CuraEngine.dir
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/native-lib.dir
+D:/new/00/3DPrinting10-master/app/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
